@@ -1,6 +1,6 @@
 {
-  "name": "hostinger/php-dig",
-  "description": "Use servers CLI command dig over php internal dns_get_record() function",
+  "name": "fhferreira/php-dig",
+  "description": "Use servers CLI command dig over php internal dns_get_record() function - just a fork of hostinger/php-dig",
   "keywords": [
     "dig",
     "dns",
