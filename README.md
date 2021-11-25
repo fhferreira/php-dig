@@ -9,7 +9,7 @@ It should drastically decrease time to get dns records, and lower failure errors
 Install the latest version with
 
 ```console
-$ composer require hostinger/php-dig
+$ composer require fhferreira/php-dig
 ```
 
 ## Usage
